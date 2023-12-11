@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/DictionaryApp/static/css/main.ca263ecb.css",
+    "main.js": "/DictionaryApp/static/js/main.fb92fd63.js",
+    "static/js/787.9e90ff23.chunk.js": "/DictionaryApp/static/js/787.9e90ff23.chunk.js",
+    "static/media/Animation.svg": "/DictionaryApp/static/media/Animation.22c6ef53edf13c044b5c313701c01d29.svg",
+    "static/media/logoMain-removebg-preview.png": "/DictionaryApp/static/media/logoMain-removebg-preview.a8e03373ffc159daf609.png",
+    "static/media/main.jpg": "/DictionaryApp/static/media/main.88bdfec64581460da61c.jpg",
+    "static/media/category-back.png": "/DictionaryApp/static/media/category-back.23509bd056a042cc9915.png",
+    "static/media/logoMain.png": "/DictionaryApp/static/media/logoMain.f9427c2cd969375f12b5.png",
+    "static/media/category-back-default.png": "/DictionaryApp/static/media/category-back-default.ac682339b66c71602810.png",
+    "static/media/public_wordlist.png": "/DictionaryApp/static/media/public_wordlist.f388e38cccf3e571e995.png",
+    "static/media/background.png": "/DictionaryApp/static/media/background.15a3fa2da57e92be112e.png",
+    "static/media/background-ava.png": "/DictionaryApp/static/media/background-ava.fdc1ed303f8cd6ccae30.png",
+    "static/media/learn-with-a-dynamic-platform-500.png": "/DictionaryApp/static/media/learn-with-a-dynamic-platform-500.435ced967eaed222de70.png",
+    "static/media/fun-learning-tools-500.png": "/DictionaryApp/static/media/fun-learning-tools-500.58391d4b610c48549577.png",
+    "static/media/hint.png": "/DictionaryApp/static/media/hint.63039c1c4f1213f4f59e.png",
+    "static/media/revicons.eot": "/DictionaryApp/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/DictionaryApp/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/DictionaryApp/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/wave-flash-top.svg": "/DictionaryApp/static/media/wave-flash-top.7a5c3ae66ccf8bc334afa145c526519b.svg",
+    "static/media/wave-flash-bottom.svg": "/DictionaryApp/static/media/wave-flash-bottom.7f5cecf61b80cb604d53a01cfed9b284.svg",
+    "static/media/wave-top.svg": "/DictionaryApp/static/media/wave-top.f771ba02d3a70a7e115aa2d2def2f0fa.svg",
+    "static/media/wave-bottom.svg": "/DictionaryApp/static/media/wave-bottom.7d92227827b589e6b9907c280bca02e3.svg",
+    "static/media/wave-quiz-top.svg": "/DictionaryApp/static/media/wave-quiz-top.fea30f96eaaa2ca3d56b458513e067c4.svg",
+    "static/media/spelling.svg": "/DictionaryApp/static/media/spelling.4b3e42a4d0bf7395c09e694727cc576c.svg",
+    "static/media/flashcard.svg": "/DictionaryApp/static/media/flashcard.5497af79861a403fa62ce071736553e8.svg",
+    "static/media/quiz.svg": "/DictionaryApp/static/media/quiz.4572feca923b0a3ac30fd4630bc42c6f.svg",
+    "index.html": "/DictionaryApp/index.html",
+    "static/media/review.svg": "/DictionaryApp/static/media/review.77453bfc449a9729529867f7b601c94b.svg",
+    "static/media/leitner.svg": "/DictionaryApp/static/media/leitner.874c8b028624eb6c1bf2a703695f0800.svg",
+    "static/media/wave-spell.svg": "/DictionaryApp/static/media/wave-spell.8a87e338fabf9fbf6fa0a2513f9ef60c.svg",
+    "main.ca263ecb.css.map": "/DictionaryApp/static/css/main.ca263ecb.css.map",
+    "main.fb92fd63.js.map": "/DictionaryApp/static/js/main.fb92fd63.js.map",
+    "787.9e90ff23.chunk.js.map": "/DictionaryApp/static/js/787.9e90ff23.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca263ecb.css",
+    "static/js/main.fb92fd63.js"
+  ]
+}
