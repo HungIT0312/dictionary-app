@@ -1,4 +1,4 @@
-import { createBrowserRouter } from "react-router-dom";
+import { createBrowserRouter, createHashRouter } from "react-router-dom";
 import Home from "../pages/Learner/home/Home";
 import Dictionary from "../pages/Learner/dictionary/Dictionary";
 import HomePage from "../layouts/HomePage/HomePage";
@@ -22,7 +22,7 @@ import { getLeiner } from "../api/Leitner/leitner.api";
 import LeitnerLevel from "../pages/Learner/leitner/LeitnerLevel";
 import LeitnerGame from "../pages/Learner/leitner/LeitnerGame";
 import AccountManagement from "../pages/Manager/Account/AccountManagement";
-const routers = createBrowserRouter([
+const routers = createHashRouter([
   {
     path: "/",
     element: <HomePage />,
