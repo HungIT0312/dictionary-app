@@ -4,7 +4,7 @@ const apiUrl = process.env.REACT_APP_API_URL;
 class Http {
   constructor() {
     this.instance = axios.create({
-      baseURL: apiUrl,
+      baseURL: "http://dictionary-app-server.online:8080",
       name: "Dictionary App",
       timeout: 10000,
       headers: {

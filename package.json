@@ -1,6 +1,6 @@
 {
   "name": "quiz-app",
-  "homepage": "https://minhkycho18.github.io/DictionaryApp/",
+  "homepage": "https://hungit0312.github.io/dictionary-app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -12,6 +12,7 @@
     "antd": "^5.10.0",
     "axios": "^1.5.0",
     "dotenv": "^16.3.1",
+    "gh-pages": "^6.1.0",
     "lodash": "^4.17.21",
     "node-sass": "^9.0.0",
     "react": "^18.2.0",
