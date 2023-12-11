@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dictionary-app/static/css/main.988536db.css",
-    "main.js": "/dictionary-app/static/js/main.5c15eb94.js",
+    "main.js": "/dictionary-app/static/js/main.196b3c9a.js",
     "static/js/787.9e90ff23.chunk.js": "/dictionary-app/static/js/787.9e90ff23.chunk.js",
     "static/media/Animation.svg": "/dictionary-app/static/media/Animation.22c6ef53edf13c044b5c313701c01d29.svg",
     "static/media/logoMain-removebg-preview.png": "/dictionary-app/static/media/logoMain-removebg-preview.a8e03373ffc159daf609.png",
@@ -31,11 +31,11 @@
     "static/media/leitner.svg": "/dictionary-app/static/media/leitner.874c8b028624eb6c1bf2a703695f0800.svg",
     "static/media/wave-spell.svg": "/dictionary-app/static/media/wave-spell.8a87e338fabf9fbf6fa0a2513f9ef60c.svg",
     "main.988536db.css.map": "/dictionary-app/static/css/main.988536db.css.map",
-    "main.5c15eb94.js.map": "/dictionary-app/static/js/main.5c15eb94.js.map",
+    "main.196b3c9a.js.map": "/dictionary-app/static/js/main.196b3c9a.js.map",
     "787.9e90ff23.chunk.js.map": "/dictionary-app/static/js/787.9e90ff23.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.988536db.css",
-    "static/js/main.5c15eb94.js"
+    "static/js/main.196b3c9a.js"
   ]
 }
